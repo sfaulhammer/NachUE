@@ -9,5 +9,10 @@
             "email": "s.faulhammer@gmx.at"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sfaulhammer\baelle": "../library/"
+        }
+    }
 }
