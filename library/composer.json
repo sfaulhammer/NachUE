@@ -1,0 +1,13 @@
+{
+    "name": "sebastian/library",
+    "description": "The Library for the balls",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "sfaulhammer",
+            "email": "s.faulhammer@gmx.at"
+        }
+    ],
+    "require": {}
+}
