@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "sebastian/library":"dev-dev"
+        "sebastian/library":"dev-master"
     },
     "repositories":{
         "NachUe": {
